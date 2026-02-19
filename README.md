@@ -26,9 +26,13 @@ npm install
 ```
 4. Start the frontend development server:
 ```
-ng serve
+npm start
 ```
 5. Open your web browser and visit http://localhost:4200 to access the application.
+
+## Screenshots
+<img width="1919" height="910" alt="cargobrrr" src="https://github.com/user-attachments/assets/ae7f8a84-ae41-43cf-bc4b-e2c61d05b1fe" />
+<img width="1909" height="911" alt="cargobrrr_login" src="https://github.com/user-attachments/assets/1e7d984b-be5c-400e-bb67-0277ab4f8065" />
 
 ## Related repositories
 1. [Backend](https://github.com/VukRadmilovic/uber-like-backend)
